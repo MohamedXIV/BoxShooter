@@ -1,4 +1,4 @@
 # BoxShooter
 ------------
 
-# Simple student game
+### Simple student game
